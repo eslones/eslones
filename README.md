@@ -1,4 +1,4 @@
-## Oiii eu sou o eslones criadora de programação e hacking!
+## Oiii eu sou o eslones desenvolvedor de programas e hacking!
 <div align="center">
   <a href="https://github.com/eslones">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eslones&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
