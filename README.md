@@ -1,4 +1,4 @@
-## Olá eu me chamo Mathues é Seja Bem-vindo(a) ao meu perfil do github!
+## Olá eu me chamo Matheus é Seja Bem-vindo(a) ao meu perfil do github!
 
 
 
