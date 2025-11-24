@@ -14,11 +14,11 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/in/matheus-candido0/)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="LinkedIn" hspace="10" />
   </a>
 
-  <a href="https://seuportfolio.com" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=9D00FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="Portfolio" hspace="10" />
   </a>
 </div>
