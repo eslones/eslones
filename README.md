@@ -8,7 +8,7 @@
 <!--Imagem Gif-->
 <br>
 <div align="center">
-  <img height="350" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
+  <img height="300" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
 </div>
 <br>
 <br>
