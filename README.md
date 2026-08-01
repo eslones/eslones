@@ -1,69 +1,148 @@
-<!--Header Background-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=header"/>
-
-<!--Type Name-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9D00FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Matheus+Candido;I+am+graduated+in+Analysis+and+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<!--Imagem Gif-->
-<br>
 <div align="center">
-  <img height="300" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" />
-</div>
-<br>
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-candido0/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="LinkedIn" hspace="10" />
-  </a>
-
-  <a href="https://matheuscandido.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=portfolio&label=&color=9D00FF&logoColor=white&labelColor=&style=for-the-badge" height="29" alt="Portfolio" hspace="10" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com/?lines=console.log(%22Hello+World!%22);Seja+bem+vindo(a)&font=Time+New+Roman&color=90EE90&size=35&center=true&vCenter=true&width=600&height=100" />
 </div>
 
 
-<!--Skills / Tools / Others-->
+<!-- MasterHead -->
+<p align="center">
+  <a href="https://github.com/eslones/eslones/blob/main/ue64E4w89E.gif">
+    <img
+      width="35%"
+      src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGcxYWJucTkxenF2cDU2NDZ3NDcwNmd4NmVmemRjOHR1cnJwcDZmYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
+      alt="Fallout GIF"
+    />
+  </a>
+</p>
 
-### 🚀 Main skills:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
- 
-### 🛠️ Tools:
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-0D1117?style=for-the-badge&logo=visual-studio&logoColor=C8A2C8&labelColor=0D1117)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![linux](https://img.shields.io/badge/-linux-0D1117?style=for-the-badge&logo=linux&labelColor=0D1117)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=libreoffice&labelColor=0D1117)&nbsp;
- 
-### 📊 Other Knowledge:
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![WordPress](https://img.shields.io/badge/-wordpress-0D1117?style=for-the-badge&logo=wordpress&labelColor=0D1117)&nbsp;
-![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+<div align="center">
+  <!-- Profile Views -->
   
-### 📚 Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![php](https://img.shields.io/badge/-Php-0D1117?style=for-the-badge&logo=php&labelColor=0D1117&textColor=0D1117)&nbsp;
+  <a href="https://github.com/eslones" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=eslones&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
+  
+  <!-- Total Stars -->
+  <a href="https://github.com/eslones?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/eslones?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
 
+  <!-- Followers -->
+  <a href="https://github.com/eslones?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/eslones?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
 
-<!--Status Dynamic-->
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eslones&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Candido github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslones&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <a style="display:block;" href="https://github.com/eslones?tab=repositories&q=&type=source&language=&sort=stargazers">
+    <img src="https://custom-icon-badges.demolab.com/badge/dynamic/json?logo=fork&color=bf616a&labelColor=5C5858&logoColor=ffffff&label=Forks&style=for-the-badge&query=%24.forks&refresh=1&url=https://api.github-star-counter.workers.dev/user/eslones" /></a>
+  
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=eslones&bg_color=000000&color=9D00FF&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<br>
+
+<img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
+<h2>
+
+<!-- About Me -->
+<h3 align="left">🧑‍💻 Sobre mim</h3>
+
+<p>
+  💻 Desenvolvedor Full Stack apaixonado por desenvolvimento web e sistemas integrados a ERPs de produção e agro.
+</p>
+
+<p>
+  📚 Foco em <strong>Laravel + Vue.js + Inertia.js</strong> para construção de sistemas web.
+</p>
+
+<p>
+  💬 Experiência com integrações de dados, <strong>SQL Server</strong> e <strong>MySQL</strong>, incluindo consultas complexas de estoque, custos e lotes.
+</p>
+
+<p>
+  ⚡ Interesse em boas práticas de arquitetura, sistemas internos e soluções eficientes para processos empresariais.
+</p>
+
+<br>
+<div align="center">
+
+<h3 align="center">📫 <strong>Me encontre:</strong></h3>
+
+<a href="mailto:matheuscandidocurriculo@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contato-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/matheus-candido0"><img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://matheuscandido.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Acessar-8A2BE2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+
+</div>
+
+<h2>
+
+<!-- Languages & Tools -->
+<h3 align="center">📚 Linguagens e ferramentas com as quais já trabalhei</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,java,cpp,cs,bash" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,react,angular,express,flutter,tailwind,bootstrap,htmx,vite,html,css" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,prisma,sequelize,rabbitmq" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,aws,cloudflare,grafana,vscode,pycharm,vim,notion,figma,npm,pwsh,wordpress,androidstudio,raspberrypi,arduino,linux,ubuntu,arch,debian,kali,redhat,windows&perline=12" />
+</div>
+
+<br>
+
+<!-- Best Repositories -->
+<!--
+<div align="center">
+  <h3>⭐️ Interesting Repositories</h3>
+  <p align="center">
+<a href="https://github.com/JoshuaThadi/Wall-E-Desk">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Wall-E-Desk" /></a>
+<a href="https://github.com/JoshuaThadi/Void-OSE">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Void-OSE" /></a>
+<a href="https://github.com/JoshuaThadi/IDE-Cosmo">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=IDE-Cosmo" /></a>
+<a href="https://github.com/JoshuaThadi/Books-Of-Knowledge">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=Books-Of-Knowledge" /></a>
+<a href="https://github.com/JoshuaThadi/PixelVault">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=PixelVault" /></a>
+<a href="https://github.com/JoshuaThadi/My-Projects">
+  <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=JoshuaThadi&repo=My-Projects" /></a>
+  </p>
+</div>
+-->
 
 
-<!--Footer Background-->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9D00FF&height=120&section=footer"/>
+<!-- Tech Stack -->
+<h3 align="center">💻 Tecnologias que utilizo para transformar ideias em soluções.</h3>
+<div align="center">
 
+
+
+</div>
+
+</div>
+<!-- Ending -->
+<p align="center">
+  <img 
+    src="https://github.com/eslones/eslones/blob/main/imagestacks"
+    alt="Wall-E GIF"
+    width="35%"
+  />
+</p>
+
+<a href="https://laravel.com/" target="_blank"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"></a>
+<a href="https://vuejs.org/" target="_blank"><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"></a>
+<a href="https://inertiajs.com/" target="_blank"><img src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white"></a>
+<a href="https://tailwindcss.com/" target="_blank"><img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+<a href="https://reactnative.dev/" target="_blank"><img src="https://img.shields.io/badge/React_Native-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a href="https://nodejs.org/" target="_blank"><img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"></a>
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"></a>
+<a href="https://www.prisma.io/" target="_blank"><img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"></a>
+<a href="https://www.postman.com/" target="_blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="1" />
+
+<p align="center">
+  ⚠️ Este arquivo README foi projetado exclusivamente por <strong>@Eslones.</strong>
+</p>
